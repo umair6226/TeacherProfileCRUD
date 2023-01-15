@@ -1,0 +1,83 @@
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\CRUD Using EntityFramework.dll.config
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\CRUD Using EntityFramework.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\CRUD Using EntityFramework.pdb
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\csc.exe
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\csc.exe.config
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\csc.rsp
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\csi.exe
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\csi.exe.config
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\csi.rsp
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.Managed.Core.targets
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.AppContext.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Console.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Globalization.Calendars.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.IO.Compression.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.IO.FileSystem.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Net.Http.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Net.Sockets.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.ValueTuple.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Xml.XmlDocument.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Xml.XPath.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\vbc.exe
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\vbc.exe.config
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\vbc.rsp
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\Antlr3.Runtime.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\EntityFramework.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\EntityFramework.SqlServer.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\Newtonsoft.Json.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.Helpers.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.Mvc.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.Optimization.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.Razor.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.WebPages.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\WebGrease.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\EntityFramework.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\EntityFramework.SqlServer.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.Helpers.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.Mvc.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.Optimization.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.Razor.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.WebPages.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\Newtonsoft.Json.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\Antlr3.Runtime.pdb
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\obj\Debug\CRUD Using EntityFramework.csproj.AssemblyReference.cache
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\obj\Debug\CRUD Using EntityFramework.csproj.CoreCompileInputs.cache
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\obj\Debug\CRUD Using EntityFramework.csproj.CopyComplete
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\obj\Debug\CRUD Using EntityFramework.dll
+C:\BootCamp\CRUD Using EntityFramework\CRUD Using EntityFramework\obj\Debug\CRUD Using EntityFramework.pdb
